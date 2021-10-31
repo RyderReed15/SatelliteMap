@@ -1,8 +1,8 @@
 # SatelliteMap
 An interactive map of all active satellites orbiting Earth
 
--Click a satellite to find out more info
--Input coordinates and size of visibility of sky (degrees) (fields have near 90 while cities will have very small)
+ - Click a satellite to find out more info
+ - Input coordinates and size of visibility of sky (degrees) (fields have near 90 while cities will have very small)
 
 # Dependencies
 
